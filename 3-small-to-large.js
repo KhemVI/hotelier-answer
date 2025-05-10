@@ -1,4 +1,5 @@
 // Merge Sort
+// Credit: https://www.geeksforgeeks.org/merge-sort/
 
 const arr = [1, 2, 31, 4, 15, 6, 7, 22, 9, 10];
 console.log("Given array is", arr.join(" "));
