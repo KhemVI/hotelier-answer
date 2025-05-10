@@ -1,6 +1,6 @@
 const numbers = [1, 2, 31, 4, 15, 6, 7, 22, 9, 10];
 
-function findMix(arr) {
+function findMin(arr) {
   if (arr.length === 0) {
     return [];
   }
@@ -13,4 +13,4 @@ function findMix(arr) {
   return min;
 }
 
-console.log('min = ', findMix(numbers));
+console.log('min = ', findMin(numbers));
