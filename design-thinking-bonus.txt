@@ -1,0 +1,60 @@
+// result: 2
+// *   *    
+// *   *        result 3, but remove middle row
+
+// result: 3
+// *   *    *s3*
+//   *      s3*
+// *   *    *s3*
+
+// result: 4
+// *       *    
+//   *   *      result 5, but remove middle row
+//   *   *      
+// *       *    
+
+// result: 5
+// *       *    *s7*
+//   *   *      s2*s3*
+//     *        s4*
+//   *   *      s2*s3*
+// *       *    *s7*
+
+
+// result: 6
+// *           *  
+//   *       *    
+//     *   *      result 7, but remove middle row
+//     *   *      
+//   *       *    
+// *           *  
+
+// result: 7
+// *           *  *s11*
+//   *       *    s2*s7*
+//     *   *      s4*s3*
+//       *        s6*
+//     *   *      s4*s3*
+//   *       *    s2*s7*
+// *           *  *s11*
+
+// result: 8
+// *               *
+//   *           *
+//     *       *
+//       *   *        result 9, but remove middle row
+//       *   *
+//     *       *
+//   *           *
+// *               *
+
+// result: 9
+// *               *  *s15*
+//   *           *    s2*s11*
+//     *       *      s4*s7*
+//       *   *        s6*s3*
+//         *          s8*
+//       *   *        s6*s3*
+//     *       *      s4*s7*
+//   *           *    s2*s11*
+// *               *  *s15*

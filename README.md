@@ -1,6 +1,6 @@
 # hotelier-answer
 
-You can run js files by nodejs for each file
+You can run js files by nodejs
 
 1. แสดงค่าจำนวนเต็มที่มากที่สุด กำหนดให้ $number = array(1,2,31,4,15,6,7,22,9,10);
 2. แสดงค่าจำนวนเต็มที่น้อยที่สุด กำหนดให้ $number = array(1,2,31,4,15,6,7,22,9,10);
